@@ -1,9 +1,5 @@
-#EXTM3U url-tvg="https://lvttnetwork.000webhostapp.com/guidexample.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg=""
 #EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", https://vod.lvtt.lat
-https://is1.rtmp-sidney.streamvi.ru/live/48d3cbca-06e5-41f3-8c60-996b93145356.m3u8
-#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Lịch phát sóng xem tại facebook LVTT Entertainment
-https://is1.rtmp-sidney.streamvi.ru/live/48d3cbca-06e5-41f3-8c60-996b93145356.m3u8
-#EXTINF:-1 group-title="LVTT TV" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", Xem trực tuyến trên LVTT TVOD (link trên FB LVTT)
 https://is1.rtmp-sidney.streamvi.ru/live/48d3cbca-06e5-41f3-8c60-996b93145356.m3u8
 #EXTINF:-1 group-title="EVENT" tvg-id="lvtt0" tvg-logo="https://yt3.googleusercontent.com/I0csx-UprXbr_3VormnNGiBq0NW1692f-Jo9moJeCIqRyb8hf5hH4CgfI-enXEYfbHVxDXqbeA=s900-c-k-c0x00ffffff-no-rj", LVTT TV (SV1)
 https://doitac.nekocdn.xyz/LVTTTV/index.m3u8
